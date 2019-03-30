@@ -41,7 +41,7 @@ if(x=="17"){xxx="invest-in-yourself-3-best-reasons-to.html"}
 if(x=="18"){xxx="how-to-become-rich-fast-wealth.html"}
 if(x=="19"){xxx="how-to-choose-to-invest-in-company.html"}
 if(x=="20"){xxx="how-to-protect-your-home-from-winter.html"}
-if(x=="21"){xxx="the-benefits-of-upvc-for-your-home-or.html"}a_to_ve[i].href="https://e-xkomo.blogspot.com/2018/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="21"){xxx="the-benefits-of-upvc-for-your-home-or.html"}a_to_ve[i].href="https://e.xkomo.com/2018/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
